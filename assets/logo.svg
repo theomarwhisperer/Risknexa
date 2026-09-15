@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-label="RiskNexa logo">
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#8B5E3C"/>
+      <stop offset="1" stop-color="#B47A4B"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(8 10)">
+    <path d="M10 112V22h45c31 0 48 16 48 40 0 17-9 29-24 35l30 29H75L51 101H40v11zM40 76h13c12 0 20-5 20-14s-8-14-20-14H40z"
+          fill="#0B4F8C"/>
+
+    <circle cx="58" cy="48" r="25"
+            fill="none"
+            stroke="url(#gold)"
+            stroke-width="6"/>
+
+    <path d="M44 56c8-13 17-19 29-21M39 48h38M48 25c-5 9-7 17-7 25s2 16 7 25M68 25c5 9 7 17 7 25s-2 16-7 25"
+          fill="none"
+          stroke="#D6C3A7"
+          stroke-width="2.4"/>
+
+    <path d="M22 108h74"
+          stroke="#0B4F8C"
+          stroke-width="7"/>
+
+    <path d="M29 101V84M48 101V72M67 101V62"
+          stroke="#2E7BCB"
+          stroke-width="8"
+          stroke-linecap="round"/>
+
+    <path d="M27 78c20-3 35-12 54-28l-4-3 18-4-3 18-5-5C69 76 50 87 27 91z"
+          fill="url(#gold)"/>
+  </g>
+
+  <text x="125" y="86"
+        font-family="Montserrat,Arial,sans-serif"
+        font-size="58"
+        font-weight="800"
+        fill="#0B4F8C">Risk</text>
+
+  <text x="252" y="86"
+        font-family="Montserrat,Arial,sans-serif"
+        font-size="58"
+        font-weight="800"
+        fill="#8B5E3C">Nexa</text>
+
+  <text x="127" y="116"
+        font-family="Arial,sans-serif"
+        font-size="13"
+        letter-spacing="1.2"
+        fill="#1F2937">RISK INTELLIGENCE. ECONOMIC INSIGHT. BETTER DECISIONS.</text>
+</svg>
